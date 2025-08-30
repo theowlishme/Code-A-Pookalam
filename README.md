@@ -4,27 +4,27 @@
 Welcome to CODE-A-പൂക്കളം, a creative coding challenge scheduled from September 1–6, where tradition meets technology! 🌼
 
 
-### Your Details
+### 🌸 Your Details
 - [Name] - [Branch] - [Semester]
 
 
 
-### Hosted Pookalam Link
+### 🌸 Hosted Pookalam Link
 
 
 
-### Pookalam Description
+### 🌸 Pookalam Description
 Brief description about your pookalam. What makes it special and different.
 
 
 
-### Technologies Used 
+### 🌸 Technologies Used 
 
 
 
-### Screenshots
+### 🌸 Screenshots
 
 
 
-Happy Onam !
+Happy Onam ! <br>
 Made with ❤️ at TinkerHub LBSITW
