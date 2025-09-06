@@ -5,21 +5,20 @@ Welcome to CODE-A-പൂക്കളം, a creative coding challenge scheduled f
 
 
 ### Your Details
-- [Name] - [Branch] - [Semester]
-
+ Anukrishna HS
+ S3 CSE 1
 
 
 ### Hosted Pookalam Link
-
+https://theowlishme.github.io/Code-A-Pookalam/
 
 
 ### Pookalam Description
-Brief description about your pookalam. What makes it special and different.
-
+ My Pookalam is just a simple pookkalam
 
 
 ### Technologies Used 
-
+Basic Html and css
 
 ### Video explaining How you build the pookalam
 
